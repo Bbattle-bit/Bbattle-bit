@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Code. Learn. Build. Repeat.
 
 * 🌍  I'm based in Italy
-* ✉️  You can contact me at [alessandrobattaglia17@gmail.com](mailto:contact.alessandro.battaglia@gmail.com)
+* ✉️  You can contact me at [contact.alessandro.battaglia@gmail.com](mailto:contact.alessandro.battaglia@gmail.com)
 * 🧠  I'm learning react, flutter, dart
 
 <a href="https://www.github.com/Bbattle-bit" target="_blank" rel="noreferrer"><img
